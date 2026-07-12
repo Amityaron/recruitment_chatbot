@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "streamlit-app",
+      "runtimeExecutable": "D:\\Python\\Project\\recruitment_chatbot\\.venv\\Scripts\\streamlit.exe",
+      "runtimeArgs": ["run", "streamlit_app/streamlit_main.py"],
+      "port": 8501
+    }
+  ]
+}
